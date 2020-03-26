@@ -1,0 +1,24 @@
+{
+  "name": "todoListPureJS",
+  "version": "0.0.0",
+  "description": "Just a simple todo list on typescript without frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenriqueOmena/todoListPureTypeScript"
+  },
+  "keywords": [
+    "simple",
+    "todo",
+    "list",
+    "wihtout",
+    "framework",
+    "using",
+    "typescript"
+  ],
+  "author": "Henrique Omena",
+  "license": "BSD"
+}
